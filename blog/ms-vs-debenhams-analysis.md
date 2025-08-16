@@ -4,9 +4,9 @@ The UK retail sector has always been fiercely competitive, but the past decade h
 
 ---
 
-## 📉 Debenhams: A Slow-Motion Collapse
+## 📉 Debenhams: A Slow Motion Collapse
 
-For years, Debenhams looked strong from the outside—big stores in prime locations, a household name, and steady revenue. Yet beneath the surface, cracks widened:
+For years, Debenhams looked strong from the outside big stores in prime locations, a household name, and steady revenue. Yet beneath the surface, cracks widened:
 
 * **High Rents & Store Overheads**: Too many large high-street locations with soaring rental costs.
 * **Executive Salaries**: A disproportionate share of cash drained by senior leadership packages.
