@@ -80,6 +80,9 @@ notebooks/
    jupyter notebook notebooks/data_sector_profitability.ipynb
    ```
 
+## Blog Articles
+- [M&S vs Debenhams: A Retail Survival Story](blog/ms-vs-debenhams-analysis.md)
+  
 ---
 
 ## ✨ Author
