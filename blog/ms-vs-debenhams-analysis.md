@@ -12,7 +12,7 @@ For years, Debenhams looked strong from the outside—big stores in prime locati
 * **Executive Salaries**: A disproportionate share of cash drained by senior leadership packages.
 * **Weak Online Strategy**: While competitors embraced e-commerce, Debenhams never built a compelling online shopping experience.
 * **Utilities & Operational Inefficiency**: Outdated store formats and high utility bills piled pressure on margins.
-* **Brand Disconnect**: The biggest failure—losing younger shoppers. Debenhams lagged behind in fashion trends and failed to connect with Gen Z and Millennials who drove new retail waves.
+* **Brand Disconnect**: The biggest failure losing younger shoppers. Debenhams lagged behind in fashion trends and failed to connect with Gen Z and Millennials who drove new retail waves.
 
 The result? Declining profitability, rising debt, and finally administration.
 
