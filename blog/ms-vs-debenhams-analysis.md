@@ -20,7 +20,7 @@ The result? Declining profitability, rising debt, and finally administration.
 
 ## Marks & Spencer: Reinventing an Icon
 
-M&S faced many of the same structural challenges—aging stores, rising rents, and competition from online-first players. But the difference lay in **adaptation and strategic cuts**:
+M&S faced many of the same structural challenges aging stores, rising rents, and competition from online-first players. But the difference lay in **adaptation and strategic cuts**:
 
 * **Smart Product Strategy**: Rather than chasing every trend, M&S focused on *“fewer, better”* products classic, good quality, designed to appeal across generations.
 * **Online Growth**: Exclusive online only products and campaigns drew customers into the digital space.
@@ -34,7 +34,7 @@ The turnaround wasn’t instant M&S still had volatile years, including a **£20
 
 ## Lessons for Investors & Analysts
 
-This comparison highlights why **profitability isn’t only about revenue growth**—it’s about **cost structure, adaptability, and brand positioning**.
+This comparison highlights why **profitability isn’t only about revenue growth** it’s about **cost structure, adaptability, and brand positioning**.
 
 * A strong **online strategy** is non-negotiable in modern retail.
 * **Overhead discipline** (rent, utilities, staff) can decide survival in downturns.
