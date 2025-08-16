@@ -1,6 +1,6 @@
 # 🏬 Lessons from Retail: Why Debenhams Collapsed While Marks & Spencer Survived
 
-The UK retail sector has always been fiercely competitive, but the past decade has separated the winners from the losers. Two historic giants—**Debenhams** and **Marks & Spencer (M\&S)**—offer a striking case study in how strategy, costs, and adaptability decide survival.
+The UK retail sector has always been fiercely competitive, but the past decade has separated the winners from the losers. Two historic giants **Debenhams** and **Marks & Spencer (M&S)** offer a striking case study in how strategy, costs, and adaptability decide survival.
 
 ---
 
@@ -28,7 +28,7 @@ M&S faced many of the same structural challenges—aging stores, rising rents, a
 * **Operational Efficiency**: Lower utility costs and streamlined operations improved resilience.
 * **Customer-Centricity**: By blending affordability with reliability, M&S kept its brand relevant while competitors faded.
 
-The turnaround wasn’t instant—M&S still had volatile years, including a **£201m net loss in 2021**. Yet, unlike Debenhams, M&S bounced back strongly, demonstrating that lean operations and digital integration create staying power.
+The turnaround wasn’t instant M&S still had volatile years, including a **£201m net loss in 2021**. Yet, unlike Debenhams, M&S bounced back strongly, demonstrating that lean operations and digital integration create staying power.
 
 ---
 
@@ -38,11 +38,11 @@ This comparison highlights why **profitability isn’t only about revenue growth
 
 * A strong **online strategy** is non-negotiable in modern retail.
 * **Overhead discipline** (rent, utilities, staff) can decide survival in downturns.
-* **Brand agility**—appealing to younger consumers while retaining loyal customers—is critical for long-term relevance.
+* **Brand agility** appealing to younger consumers while retaining loyal customers—is critical for long-term relevance.
 * Executive teams that prioritize sustainable growth over inflated compensation send stronger signals to investors.
 
 ## 📊 The Bigger Picture
 
-When placed alongside other global players—like **Microsoft in Tech** (high-margin, innovation-driven) and **BP in Energy** (low-margin, cycle-driven)—M\&S and Debenhams remind us that **sector fundamentals matter, but execution matters more**.
+When placed alongside other global players—like **Microsoft in Tech** (high-margin, innovation-driven) and **BP in Energy** (low-margin, cycle-driven)—M&S and Debenhams remind us that **sector fundamentals matter, but execution matters more**.
 
-Where Debenhams fell, M\&S managed to adapt—turning cost cuts and online exclusives into a survival strategy. For investors, that’s a timeless reminder: **look beyond the numbers and into the strategy behind them.**
+Where Debenhams fell, M&S managed to adapt—turning cost cuts and online exclusives into a survival strategy. For investors, that’s a timeless reminder: **look beyond the numbers and into the strategy behind them.**
