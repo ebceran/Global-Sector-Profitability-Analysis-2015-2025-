@@ -22,8 +22,8 @@ The result? Declining profitability, rising debt, and finally administration.
 
 M&S faced many of the same structural challenges—aging stores, rising rents, and competition from online-first players. But the difference lay in **adaptation and strategic cuts**:
 
-* **Smart Product Strategy**: Rather than chasing every trend, M&S focused on *“fewer, better”* products—classic, good quality, designed to appeal across generations.
-* **Online Growth**: Exclusive online-only products and campaigns drew customers into the digital space.
+* **Smart Product Strategy**: Rather than chasing every trend, M&S focused on *“fewer, better”* products classic, good quality, designed to appeal across generations.
+* **Online Growth**: Exclusive online only products and campaigns drew customers into the digital space.
 * **Cost Discipline**: M&S aggressively reduced store footprint, renegotiated leases, and cut non-essential roles.
 * **Operational Efficiency**: Lower utility costs and streamlined operations improved resilience.
 * **Customer-Centricity**: By blending affordability with reliability, M&S kept its brand relevant while competitors faded.
@@ -43,6 +43,6 @@ This comparison highlights why **profitability isn’t only about revenue growth
 
 ## 📊 The Bigger Picture
 
-When placed alongside other global players—like **Microsoft in Tech** (high-margin, innovation-driven) and **BP in Energy** (low-margin, cycle-driven)—M&S and Debenhams remind us that **sector fundamentals matter, but execution matters more**.
+When placed alongside other global players like **Microsoft in Tech** (high-margin, innovation-driven) and **BP in Energy** (low-margin, cycle-driven) M&S and Debenhams remind us that **sector fundamentals matter, but execution matters more**.
 
-Where Debenhams fell, M&S managed to adapt—turning cost cuts and online exclusives into a survival strategy. For investors, that’s a timeless reminder: **look beyond the numbers and into the strategy behind them.**
+Where Debenhams fell, M&S managed to adapt turning cost cuts and online exclusives into a survival strategy. For investors, that’s a timeless reminder: **look beyond the numbers and into the strategy behind them.**
